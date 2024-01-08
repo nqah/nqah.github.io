@@ -1,0 +1,31 @@
+.center {
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
+ .centert {
+     margin-left: auto;
+     margin-right: auto;
+}
+ table, th, td {
+    border: 1px solid;
+}
+ table {
+    border-collapse: collapse;
+}
+ td {
+    text-align: center;
+}
+ h1 {
+    text-align: center;
+}
+ th {
+     font-family: "Courier New", Monospace;
+}
+ td {
+     font-family: "Courier New", Monospace;
+}
+h1 {
+    font-family: "Courier New", Monospace;
+}
