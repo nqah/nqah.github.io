@@ -1,0 +1,72 @@
+.centert {
+    margin-left: auto;
+    margin-right: auto;
+}
+h1, h2, p {
+    font-family: Copperplate;
+    text-align: center;
+}
+p {
+    font-family: Copperplate;
+    display:inline;
+    margin-left: 400px;
+}
+.center {
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
+    #divman1 {
+        border-radius: 25px;
+        background: url(https://images.unsplash.com/photo-1637684666451-423047d6bf5e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGJ1c2luZXNzbWFufGVufDB8fDB8fHww);
+        background-position: left top;
+        background-repeat: repeat;
+        padding: 20px;
+        width: 47%;
+        height: 480px;
+        float:left;
+        margin-top:20px;
+      }
+      #divman2 {
+        border-radius: 25px;
+        background: url(https://images.unsplash.com/photo-1618568949779-895d81686151?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGJ1c2luZXNzbWFufGVufDB8fDB8fHww);
+        background-position: left top;
+        background-repeat: repeat;
+        padding: 20px;
+        width: 47%;
+        height: 480px;
+        float:right;
+        margin-top:20px;
+      }
+      #divman3 {
+        border-radius: 25px;
+        background: url(https://images.unsplash.com/photo-1631131431211-4f768d89087d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YnVzaW5lc3NtYW58ZW58MHx8MHx8fDA%3D);
+        background-position: left top;
+        background-repeat: repeat;
+        padding: 20px;
+        width: 47%;
+        height: 480px;
+        float:left;
+        margin-top:20px;
+      }
+      #divman5 {
+        border-radius: 25px;
+        background: url(https://images.unsplash.com/photo-1537511446984-935f663eb1f4?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YnVzaW5lc3NtYW58ZW58MHx8MHx8fDA%3D);
+        background-position: left top;
+        background-repeat: repeat;
+        padding: 20px;
+        width: 47%;
+        height: 480px;
+        float:right;
+        margin-top:20px;
+      }
+      #topbar {
+        width: 100%;
+        z-index: 1;
+        float:top;
+        font-size: 22px;
+        font-family: Copperplate;
+        background-color: lightgray;
+        height:70px
+      }
