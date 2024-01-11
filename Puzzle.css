@@ -1,0 +1,37 @@
+.flex-container {
+    display: flex;
+    width: 600px;
+    flex-wrap: wrap;
+    border:none;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+  .display {
+    display:none;
+  }
+  .center {
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 35%;
+}
+.centert {
+  text-align: center;
+}
+.grid-item {
+  display: grid;
+}
+#topbar {
+  width: 100%;
+  z-index: 1;
+  float:top;
+  font-size: 22px;
+  font-family: Copperplate;
+  background-color: gray;
+  height:70px
+}
+div {
+  font-family: Copperplate;
+}
