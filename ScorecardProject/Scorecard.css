@@ -1,0 +1,106 @@
+table {border-collapse: collapse;}
+td {text-align: center;}
+h1 {text-align: center;font-family: "Garamond"}
+th {font-family: "Garamond";}
+td {font-family:  "Garamond"}
+table, th, td {border: 1px solid;}
+table, th, td {width:1770px;}
+table {height: 500px;}
+p {
+    font-family: Garamond;
+}
+  .centert {
+    text-align: center;
+    justify-content: center;
+  }
+  .topbartennis3 {
+    background-color: rgb(186, 235, 186);
+    overflow: hidden;
+  }
+  .topbartennis3 a  {
+
+    text-align: center;
+    padding: 20px 16px;
+    float: left;
+    color: green;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Garamond;
+  }
+  .tennis1 {
+    background-color: rgb(186, 235, 186);
+  }
+  .tennis2 {
+    background-color:lightgreen;
+  }
+  .topbartennis3 a:hover {
+    color: green;
+    background-color: lightgreen;
+  }
+  #color {
+    color: brown;
+  }
+  #color2 {
+color:green ;
+  }
+  #color3 {
+    color: white;
+  }
+  #color4 {
+color: white
+  }
+  .basketball1 {
+    background-color: brown;
+  }
+  .basketball2 {
+    background-color:orange;
+  }
+  .topbarbasketball a  {
+
+    text-align: center;
+    padding: 20px 16px;
+    float: left;
+    color: brown;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Garamond;
+  }
+  .topbarbasketball {
+    background-color: rgb(255, 175, 26);
+    overflow: hidden;
+  }
+  .topbarbasketball a:hover {
+    color: brown;
+    background-color: orange;
+  }
+
+
+
+
+
+
+  .baseball1 {
+    background-color: #051c40;
+  }
+  .baseball2 {
+    background-color: #b90e3c;
+  }
+
+  .topbarbaseball3 a  {
+
+    text-align: center;
+    padding: 20px 16px;
+    float: left;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: Garamond;
+  }
+  .topbarbaseball3 {
+    background-color: #b90e3c;
+    overflow: hidden;
+  }
+  .topbarbaseball3 a:hover {
+    color: white;
+    background-color: #051c40;
+  }
