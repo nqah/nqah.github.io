@@ -1,0 +1,28 @@
+.center {
+    text-align: center;
+  }
+  #topbar {
+    width: 100%;
+    z-index: 1;
+    float:top;
+    font-size: 22px;
+    font-family: Copperplate;
+    background-color: gray;
+    height:70px
+  }
+  h1, h2, p {
+    font-family: Copperplate;
+    text-align: center;
+  }
+  #center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+iframe {
+    width: 850px;
+    height: 600px;
+    margin: 0 auto;;
+    display:block;
+}
