@@ -1,0 +1,32 @@
+#topbar {
+    width: 100%;
+    z-index: 1;
+    float:top;
+    font-size: 22px;
+    font-family: Copperplate;
+    background-color: gray;
+    height:70px
+  }
+  .flex-container {
+    display: flex;
+    width: 910px;
+    flex-wrap: wrap;
+    border:solid 2px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding:0px
+}
+img {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    border:solid 1px;
+    width:300px;
+    height:300px
+    
+}
+.invert {
+    border-radius:10px 30px 50px 10px / 20px 5px 20px 60px;
+    filter: invert(100%);
+}
