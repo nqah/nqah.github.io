@@ -1,0 +1,92 @@
+#topbar {
+    width: 100%;
+    z-index: 1;
+    float:top;
+    font-size: 22px;
+    font-family: Copperplate;
+    background-color: lightgray;
+    height:70px;
+  }
+  #divman1 {
+    border-radius: 25px;
+    background-color: lightgrey;
+    font-family: Copperplate;
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 20%;
+    height: 300px;
+    float:left;
+    margin: 15px;
+  }
+ 
+
+  section {
+    animation: fadeAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+ 
+@keyframes fadeAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+     }
+}
+@keyframes fadein {
+  0% {
+    background-color: lightgray;
+  }
+  20% {
+    background-color:#424242;
+  }
+  40% { 
+    background-color:#404040 ;
+  }
+  60% {
+    background-color:#353535 ;
+  }
+  80% {
+    background-color:#282828; 
+  }
+  100% {
+    background-color: #1d1d1d;
+  }
+}
+.middle {
+text-align: center;
+vertical-align: middle;
+
+
+}
+
+div .show {
+  display: none;
+}
+
+div:hover .noshow {
+  display: none;
+}
+
+div:hover .show {
+  display: inline;
+}
+
+
+#divman1:hover {
+
+  border-radius: 25px;
+  animation:fadein ease-in-out 3s;
+  animation-fill-mode: forwards;
+  background-color: rgb(73, 73, 73);
+  font-family: Copperplate;
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 20px;
+  width: 20%;
+  height: 300px;
+  float:left;
+  margin: 15px;
+}
